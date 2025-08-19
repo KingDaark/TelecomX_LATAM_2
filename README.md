@@ -1,8 +1,8 @@
-\# Challenge Telecom X: Análisis de Fuga de Clientes
+\ Challenge Telecom X: Análisis de Fuga de Clientes
 
 
 
-\### Descripción
+\ Descripción
 
 Este proyecto forma parte del \*\*Challenge Telecom X\*\*, una iniciativa diseñada para desarrollar habilidades de científico de datos en un entorno práctico. El objetivo principal es analizar la base de datos de una empresa de telecomunicaciones para identificar los factores que influyen en la fuga o "churn" de clientes y, a partir de este análisis, construir un modelo predictivo que ayude a la empresa a anticiparse a este problema.
 
@@ -12,7 +12,7 @@ Este proyecto forma parte del \*\*Challenge Telecom X\*\*, una iniciativa diseñ
 
 
 
-\### Objetivos del Proyecto
+\Objetivos del Proyecto
 
 \* \*\*Análisis Exploratorio de Datos (EDA):\*\* Entender la estructura de los datos, identificar patrones y descubrir las variables más relevantes.
 
@@ -30,7 +30,7 @@ Este proyecto forma parte del \*\*Challenge Telecom X\*\*, una iniciativa diseñ
 
 
 
-\### Tecnologías y Herramientas
+\ Tecnologías y Herramientas
 
 \* \*\*Python:\*\* Lenguaje de programación principal.
 
@@ -54,11 +54,12 @@ Este proyecto forma parte del \*\*Challenge Telecom X\*\*, una iniciativa diseñ
 
 
 
-\### Estructura del Repositorio
+\ Estructura del Repositorio
 
 \* `notebooks/`: Contiene el \*\*notebook\*\* principal con todo el análisis y el código.
 
 \* `data/`: Almacena el archivo de datos (`telecom\_churn.csv`).
+
 
 
 
