@@ -30,7 +30,7 @@ Objetivos del Proyecto
 
 
 
-\ Tecnologías y Herramientas
+ Tecnologías y Herramientas
 
 \* Python:\*\* Lenguaje de programación principal.
 
@@ -44,9 +44,9 @@ Objetivos del Proyecto
 
 &nbsp;   \* \*\*Scikit-learn:\*\* Para la construcción y evaluación del modelo de Machine Learning.
 
-\* \*\*Jupyter Notebook:\*\* Entorno de desarrollo para la exploración y el modelado.
+\* Jupyter Notebook:\*\* Entorno de desarrollo para la exploración y el modelado.
 
-\* \*\*GitHub:\*\* Control de versiones del proyecto.
+\* GitHub:\*\* Control de versiones del proyecto.
 
 
 
@@ -54,11 +54,12 @@ Objetivos del Proyecto
 
 
 
-\ Estructura del Repositorio
+Estructura del Repositorio
 
 \* `notebooks/`: Contiene el \*\*notebook\*\* principal con todo el análisis y el código.
 
 \* `data/`: Almacena el archivo de datos (`telecom\_churn.csv`).
+
 
 
 
