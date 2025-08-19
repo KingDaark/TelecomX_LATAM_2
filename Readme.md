@@ -36,4 +36,5 @@ notebooks/: Contiene el notebook principal con todo el análisis y el código.
 
 data/: Almacena el archivo de datos (telecom_churn.csv).
 
+
 README.md: Este archivo, con la descripción del proyecto.
